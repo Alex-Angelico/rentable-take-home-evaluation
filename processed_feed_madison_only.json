@@ -1,0 +1,134 @@
+[
+  {
+    "property_id": 2222,
+    "name": "ABODO",
+    "email": "leads@abodo.com",
+    "coordinates": [
+      45.272408,
+      -92.996221
+    ],
+    "weather_report": "Partly cloudy, with a low around 57. North wind around 5 mph.",
+    "units": [
+      {
+        "unit_id": 16165,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16166,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16167,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16170,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16171,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16168,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16169,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16172,
+        "bedrooms": 3
+      }
+    ]
+  },
+  {
+    "property_id": 1111,
+    "name": "ABODO",
+    "email": "leads@abodo.com",
+    "coordinates": [
+      45.272408,
+      -92.996221
+    ],
+    "weather_report": "Partly cloudy, with a low around 57. North wind around 5 mph.",
+    "units": [
+      {
+        "unit_id": 16165,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16166,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16167,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16170,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16171,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16168,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16169,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16172,
+        "bedrooms": 3
+      }
+    ]
+  },
+  {
+    "property_id": 1111,
+    "name": "ABODO",
+    "email": "leads@abodo.com",
+    "coordinates": [
+      45.272408,
+      -92.996221
+    ],
+    "weather_report": "Partly cloudy, with a low around 57. North wind around 5 mph.",
+    "units": [
+      {
+        "unit_id": 16165,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16166,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16167,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16170,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16171,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16168,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16169,
+        "bedrooms": 3
+      },
+      {
+        "unit_id": 16172,
+        "bedrooms": 3
+      }
+    ]
+  }
+]
